@@ -22,6 +22,7 @@ print( switch.get("lynx", "THE KEY IS IN ANOTHER CASTLE!") )
 
 print( "Third test - .get()" )
 print( switch.get("version") )
+
 print( "Fourth test - .keys()" )
 print( switch.keys() )
 
